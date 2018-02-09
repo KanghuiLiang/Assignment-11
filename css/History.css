@@ -1,0 +1,26 @@
+.total {
+  /*overflow: hidden;*/
+  background-color: #E9E9E9;
+  position: fixed;
+  bottom: 0;
+	right: 0;
+  width: 300px;
+	color: #C90000;
+}
+
+.total a {
+  float: left;
+  display: block;
+  color:  #C90000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.main {
+  padding: 16px;
+  margin-bottom: 30px;
+  height: 1500px; /* Used in this example to enable scrolling */
+}
+
